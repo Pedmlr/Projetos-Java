@@ -1,14 +1,4 @@
-# Projetos-Java
-Projetos desenvolvidos durante minha carreira academica - TCC
+# java-projects
+Projects developed during my academic career - TCC
 
-
-A configuração de um software normalmente é a primeira parte a ser realizada para que
-seja possível fazer o uso correto de um aplicativo. Entretanto, as configurações minuciosas
-demandam tempo para que o App fique do seu jeito, esse fato é prejudicial quando se há
-necessidade de desinstalar e instalar novamente um software, visto que é necessário configurar
-tudo novamente. Com nosso software pretendemos reverter esse cenário, aqueles que desejam ser
-produtivos e ainda assim trabalhar de forma a não perder o conforto de suas configurações
-poderão fazê-lo. Com essa ideia, planejamos poupar o tempo de nosso usuário que é gasto
-configurando aplicativos complexos. Expressamos nosso intuito através de nosso lema
-“configured once, use forever”.
-palavras chave: Configurações, Aplicativos, Java
+The configuration of the software is usually the first part to be performed to make the correct use of an application. However, detailed configurations take time for the App to get your way, this fact is detrimental when there is a need to uninstall and reinstall the software since it is necessary to configure everything again. With our software we intend to reverse this scenario, those who wish to be productive and still work in a way that does not lose the comfort of their settings will be able to do so. With this idea, we plan to save our users time that is spent configuring complex applications. We express our intention through our motto "configured once, use forever". keywords: Configurations, Applications, Java
